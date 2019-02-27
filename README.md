@@ -1,4 +1,9 @@
 # Lagoon development
 
-1. installed GrumPhP, because we gonna use it for check future commits
-2. installed PHPUnit, because we gonna use it for writing tests
+
+**0.0.1 - 2019-02-2**
+
+**Added:**
+    
+    - GrumPhP library for checking future commits
+    - phpUnit library for writing the init tests
